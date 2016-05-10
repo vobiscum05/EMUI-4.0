@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+
+<color name="emui_logo_background">#202020</color>
+
+
+<!-- lista  -->
+<color name="emui_text_summary_dark">#ffffff</color>
+<color name="emui_list_summary_default">#ffffff</color>
+
+</hwthemes>

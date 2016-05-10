@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+ <!-- Attiva il mascheramento senza non tema nulla -->
+    <color name="emui_custom_panel_background">#00000000</color>
+
+
+
+
+    <!--控制tab字体颜色几种状态颜色值 -->	
+    <color name="emui_tab_title_pressed">#8ff5511f</color>
+    <color name="emui_tab_title_selected">#fff5511f</color>
+    <color name="emui_tab_title_activated">#fff5511f</color>
+    <color name="emui_tab_title_normal">#fff5511f</color>
+
+    
+</resources>
+

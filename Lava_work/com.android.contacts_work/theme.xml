@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>     
+
+
+        <!-- 搜索框按下前与按下后的文本颜色-->
+	<color name="contact_section_title_text_color">#fff5511f</color>   
+	<!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+        <color name="background_change">#00000000</color>
+
+
+      
+    
+</hwthemes>

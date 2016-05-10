@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Tab Notifiche-->
+
+	<color name="clock_color">#3090c7</color>
+	<color name="data_color">#3090c7</color>
+  <color name="emui_time_axis_info_default">#3090c7</color>
+  <color name="sim_message">#3090c7</color>
+
+<!-- Colore TAB per l'icona usare png-->
+
+<color name="status_bar_expand_toolbox_tab_button_normal">#3090c7</color>
+
+<!-- Tab Scorciatoie per icone luminosit usare png -->
+
+  <color name="status_bar_expand_toolbox_text_normal">#ffffff</color>
+ <color name="status_bar_expand_brightness_text">#3090c7</color>
+<color name="status_bar_expand_toolbox_text_on_normal">#ff3090c7</color>
+        <color name="status_bar_expand_toolbox_text_on_pressed">#ff3090c7</color>
+        <color name="status_bar_expand_toolbox_text_intermediate_color">#3090c7</color>
+	<color name="status_bar_expand_toolbox_edit_normal">#003BB9FF</color>	
+<drawable name="notification_panel_bg">#e5ffffff</drawable>
+</resources>
