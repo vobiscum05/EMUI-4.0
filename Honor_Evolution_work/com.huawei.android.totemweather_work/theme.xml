@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- single_weather4x1 -->
+    <color name="single_weather4x1_shadowColor">#80000000</color>
+    <color name="single_weather4x1_normal_textColor">#ff3090c7</color>
+    <color name="single_weather4x1_time_display_textColor">#E53090c7</color>
+    <!-- single_weather4x2 -->
+    <color name="single_weather4x2_shadowColor">#80000000</color>
+    <color name="single_weather4x2_normal_textColor">#FF3090c7</color>
+
+    <!-- widget_dual_single_city41 -->
+    <color name="dual_single_city41_shadowColor">#80000000</color>
+    <color name="dual_single_city41_normal_textColor">#FF3090c7</color>
+
+    <!-- widget_dual_single_city42 -->
+    <color name="dual_single_city42_shadowColor">#80000000</color>
+    <color name="dual_single_city42_normal_textColor">#FF3090c7</color>
+
+    <!-- include_widget_temperature -->
+    <color name="widget_temperature_shadowColor">#80000000</color>
+    <color name="widget_temperature_textColor">#FF3090c7</color>
+
+</resources>
