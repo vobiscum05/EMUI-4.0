@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Colore nome app cartella aperta -->
+
+<color name="workspace_app_text_color">#43a2db</color>
+
+</resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+ <!-- Attiva il mascheramento senza non tema nulla -->
+    <color name="emui_custom_panel_background">#00000000</color>
+
+
+<!-- Colore per testo per sfondo usare png -->	
+    <color name="emui_tab_title_pressed">#8cffffff</color>
+    <color name="emui_tab_title_selected">#ffffff</color>
+    <color name="emui_tab_title_activated">#ffffff</color>
+    <color name="emui_tab_title_normal">#8cffffff</color>
+
+
+</resources>
+
