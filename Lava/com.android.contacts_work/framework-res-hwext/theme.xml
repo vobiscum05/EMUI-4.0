@@ -6,7 +6,8 @@
     <color name="emui_custom_panel_background">#00000000</color>
 
 
-
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff343434</color>
 
     <!--控制tab字体颜色几种状态颜色值 -->	
     <color name="emui_tab_title_pressed">#8ff5511f</color>
