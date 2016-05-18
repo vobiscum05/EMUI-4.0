@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hwthemes>
     <color name="people_app_theme_color" status="No" default="#FFBE77FF">#FFBE77FF</color>
-    <color name="dialer_search_highlightcolor" status="No" default="#FF28C0C6">#FF28C0C6</color>
-    <color name="dialer_search_highlightcolor" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="contact_list_item_text_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="contact_list_item_sub_text_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="contact_eidtor_item_name_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="contact_eidtor_item_content_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="call_log_primary_text_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
+    <color name="dialer_search_highlightcolor" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
+    <color name="dialer_search_highlightcolor" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="contact_list_item_text_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="contact_list_item_sub_text_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="contact_eidtor_item_name_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="contact_eidtor_item_content_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="call_log_primary_text_color" status="No" default="#FFFF0000">#FFFF0000</color>
     <color name="call_log_secondary_text_color" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
-    <color name="contact_eidtor_title_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="contact_section_title_text_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
+    <color name="contact_eidtor_title_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="contact_section_title_text_color" status="No" default="#FFFF0000">#FFFF0000</color>
     <color name="contact_bt_prepare_title_color" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="contact_calllog_detail_main_text_color" status="No" default="#D8FFFFFF">#D8FFFFFF</color>
     <color name="contact_detail_white_sub_text_color" status="No" default="#B2BEC1C4">#B2BEC1C4</color>
@@ -23,20 +23,21 @@
     <color name="menu_selector_color_state_default" status="Yes" default="#FFDEB887">#FFD4AC81</color>
     <color name="empty_contacts_text_color" status="No" default="#A5FFFFFF">#A5FFFFFF</color>
     <color name="background_change" status="No" default="#00000000">#00000000</color>
-    <color name="mms_sub_text_color" status="No" default="#FF00FF7F">#FF00FF7F</color>
-    <color name="text_color_taste_isMms_normal" status="No" default="#FF0033FF">#FF0033FF</color>
-    <color name="label_downloading" status="No" default="#990033FF">#990033FF</color>
-    <color name="list_item_downlod_btn_disable_color" status="No" default="#64FF00FF">#64FF00FF</color>
-    <color name="list_item_btn_disable_color" status="No" default="#64FF00FF">#64FF00FF</color>
-    <color name="text_color_white" status="No" default="#FFFF00FF">#FFFF00FF</color>
-    <color name="incoming_msg_text_color" status="No" default="#FFFF00FF">#FFFF00FF</color>
-    <color name="mms_send_to_text_color" status="No" default="#DBFF00FF">#DBFF00FF</color>
-    <color name="single_text_editor_color" status="No" default="#FFFF00FF">#FFFF00FF</color>
-    <color name="slide_page_number_color" status="No" default="#AFF00FF">#AFF00FF</color>
-    <color name="text_color_button" status="No" default="#FF0033FF">#FF0033FF</color>
+    <color name="mms_sub_text_color" status="No" default="#FFFF0000">#FFFF0000</color>
+    <color name="text_color_taste_isMms_normal" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
+    <color name="label_downloading" status="No" default="#99FFFFFF">#99FFFFFF</color>
+    <color name="list_item_downlod_btn_disable_color" status="No" default="#64FF00FF">#64FF0000</color>
+    <color name="list_item_btn_disable_color" status="No" default="#64FF00FF">#64FF0000</color>
+    <color name="text_color_white" status="No" default="#FFFF00FF">#FFFF0000</color>
+    <color name="incoming_msg_text_color" status="No" default="#FFFF00FF">#FFFF0000</color>
+    <color name="mms_send_to_text_color" status="No" default="#DBFF00FF">#DBFF0000</color>
+    <color name="single_text_editor_color" status="No" default="#FFFF00FF">#FFFF0000</color>
+    <color name="slide_page_number_color" status="No" default="#AFF00FF">#AFF0000</color>
+	<!-- Testo colore contatto sfondo vulcano + sfondo -->
+    <color name="text_color_button" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="text_color_white_important" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="text_color_white_sub" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
-    <color name="text_color_balck_sub" status="No" default="#FF00FF7F">#FF00FF7F</color>
+    <color name="text_color_balck_sub" status="No" default="#FFFF0000">#FFFF0000</color>
     <color name="mms_text_counter_color">#d8ffffff</color>
     <color name="text_color_black_main" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="mms_unread_text_color" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
@@ -44,15 +45,17 @@
     <color name="text_color_black_sub_1" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="text_color" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="sms_number_set_warning" status="No" default="#FFF0460E">#FFF0460E</color>
-    <color name="attach_panel_item_color" status="No" default="#FF355A84">#FF355A84</color>
-    <color name="attach_panel_grid_line_color" status="No" default="#00869DB7">#00869DB7</color>
+<!-- Colore pannello allegati -->
+    <color name="attach_panel_item_color" status="No" default="#FFF62817">#FFfa3e42</color>
+    <color name="attach_panel_grid_line_color" status="No" default="#00ffffff">#00ffffff</color>
     <color name="text_color_black_important" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="sign_view_select_color" status="No" default="#660CCD87">#660CCD87</color>
     <color name="sign_view_unselect_color" status="No" default="#190CCD87">#190CCD87</color>
     <color name="mms_bg_change" status="Yes" default="#00000000">#0000000</color>
-    <color name="text_color_white_sub_1" status="No" default="#7F0033FF">#7F0033FF</color>
-    <color name="text_color_white_sub_2" status="No" default="#4C0033FF">#4C0033FF</color>
-    <color name="text_color_white_splite_line" status="No" default="#330033FF">#330033FF</color>
-    <color name="text_color_white_main" status="No" default="#D80033FF">#D80033FF</color>
-    <color name="empty_message_text_color" status="No" default="#A50033FF">#A50033FF</color>
+    <color name="text_color_white_sub_1" status="No" default="#7FFFFFFF">#7FFFFFFF</color>
+    <color name="text_color_white_sub_2" status="No" default="#4CFFFFFF">#4CFFFFFF</color>
+    <color name="text_color_white_splite_line" status="No" default="#33FFFFFF">#33FFFFFF</color>
+    <color name="text_color_white_main" status="No" default="#D8FFFFFF">#D8FFFFFF</color>
+    <color name="empty_message_text_color" status="No" default="#A5FFFFFF">#A5FFFFFF</color>
+ 
 </hwthemes>
