@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Star</title>
+    <title-cn>Titolo del tema in lingua cinese</title-cn>
+    <author>Vobiscum</author>
+    <designer>Icon by CriGio</designer>
+    <screen>FHD</screen>
+    <version>3.2</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <transition>None</transition>
+</HwTheme>

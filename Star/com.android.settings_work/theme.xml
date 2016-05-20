@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+
+<!-- lista  -->
+<color name="emui_primary_text_dark_disabled">#ffffff</color>
+
+<!-- Lista nero premuto -->
+<color name="emui_text_dark">#ffffff</color>
+
+<!-- Lista menu sx -->
+<color name="emui_list_primary_default">#00ffff</color>
+<color name="category_emotion">#ffffff</color>
+<color name="emui_summary_text_dark_disabled">#A6ffffff</color>
+
+<color name="emui_text_summary_dark">#ffffff</color>
+<color name="emui_list_summary_default">#ffffff</color>
+<color name="emui_logo_background">#000000</color>
+
+<!-- The battery progress bar color value -->
+<color name="battery_progress_background">#ff28262c</color>
+<color name="battery_progress_first">#c09e7837</color>
+<color name="battery_progress_second">#c09e7837</color>
+<color name="linear_color_bar">#ff9e7837</color>
+
+<!-- The category divider text color -->
+<color name="category_emotion">#ffe05a6d</color>
+
+
+</hwthemes>
