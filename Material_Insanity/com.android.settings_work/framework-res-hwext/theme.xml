@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+
+<!-- lista Menu -->
+<color name="emui_list_primary_default">#ff0000</color>
+<color name="emui_text_disabled">#a6ff0000</color>
+<color name="emui_text_summary_dark">#ffffff</color>
+
+
+<!-- Testo Popup Vari -->                                        
+<color name="emui_text_light">#ff0000</color>
+
+<!-- Testo Autorizzazioni Gestioni APP -->
+<color name="emui_text_dark">#ff0000</color>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ffffff</color>
+
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#ffffff</color>
+<color name="menuitem_default_uncheckedcolor">#ffffff</color>
+
+<!-- Testi disabilitati -->
+<color name="emui_secondary_text_dark">#a6ffffff</color>
+<color name="emui_secondary_text_dark_disabled">#a6ffffff</color>
+<color name="emui_primary_text_dark_disabled">#a6ffffff</color>
+
+<!-- subtab/Tab -->
+<color name="sub_tab_title_selected_pressed_emui">#ffffff</color>
+<color name="sub_tab_title_selected_emui">#ffffff</color>
+<color name="sub_tab_title_activated_pressed_emui">#ffffff</color>
+<color name="sub_tab_title_activated_emui">#ffffff</color>
+<color name="emui_tab_title_off">#ffffff</color>
+<color name="emui_tab_title_on">#ffffff</color>
+<color name="emui_dialog_title_text_Color">#ff0000</color>
+<color name="emui_message_text_color">#ff0000</color>
+<color name="emui_popmenu_text_color">#ff0000</color>
+<color name="emui_action_bar_title_text_color">#ffffff</color>
+   
+<!-- fastscroll -->
+<color name="emui_label_primary_text">#ff0000</color>
+<color name="emui_dialog_blue_light">#ff0000</color>
+<color name="transparent">#ffffff</color>
+
+
+<!-- Colore Tasti Avanti/Annulla -->
+<color name="emui_button_text_disabled_inverse">#ffffff</color>
+<color name="emui_button_text_pressed_inverse">#ffffff</color>
+<color name="emui_button_text_color_inverse">#ffffff</color>
+<color name="emui_button_text_color">#ff0000</color>
+<color name="emui_button_text_disabled">#a6ff0000</color>
+
+<!-- Colore titolo TAB per icona usare png -->
+<color name="emui_custom_panel_background">#00000000</color>
+<color name="emui_tab_title_pressed">#ff0000</color>
+<color name="emui_tab_title_selected">#ff0000</color>
+<color name="emui_tab_title_activated">#ff0000</color>
+<color name="emui_tab_title_normal">#ff0000</color>
+
+
+<!--RIGO_UI Modification Data/Ora -->
+<color name="emui_numberpicker_select_textcolor">#ff0000</color>   
+<color name="emui_numberpicker_small_textcolor">#a6ffffff</color>
+<color name="emui_numberpicker_normal_textcolor">#00ffff</color> 
+<color name="emui_numberpicker_small_textcolor_dark">#000000</color>
+<color name="emui_numberpicker_normal_textcolor_dark">#000000</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff000000</color>
+
+<!-- sfondo ricerca   -->
+<color name="emui_background_light">#000000</color>
+
+</resources>
+

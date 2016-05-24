@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Material Insanity</title>
+    <title-cn>Titolo del tema in lingua cinese</title-cn>
+    <author>Vobiscum</author>
+    <designer>Vobiscum</designer>
+    <screen>FHD</screen>
+    <version>1.0</version>
+    <font>Cagliostro</font>
+    <font-cn>Cagliostro</font-cn>
+    <transition>None</transition>
+</HwTheme>
