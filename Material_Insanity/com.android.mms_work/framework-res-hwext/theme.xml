@@ -8,8 +8,8 @@
     <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
     <color name="emui_list_primary_default">#000000</color>
     <!-- setting二级界面第二行list颜色 -->
-    <color name="emui_secondary_text_dark">#ffffff</color>
-
+    <color name="emui_secondary_text_dark">#ff0000</color>
+    <color name="emui_list_text_dark">#ffffff</color>
 
     <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
     <color name="emui_custom_panel_background">#00000000</color>
@@ -21,11 +21,19 @@
     <color name="emui_tab_title_activated">#ff8ab9ff</color>
     <color name="emui_tab_title_normal">#ffffffff</color>
 
-    <!-- toolbar字体颜色 日历 主题管理 信息 -->
-    <color name="menuitem_default_checkedcolor">#7f7f7f</color>
-    <color name="menuitem_default_uncheckedcolor">#7f7f7f</color>
+<!-- Colore testo menu barra azioni -->
+
+<color name="menuitem_default_uncheckedcolor">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor_disabled">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff0000</color>
+
     <!-- 手机管家list第一行字体 -->
     <color name="hw_black">#ff000000</color>
+	<drawable name="text_color_black_conversation_list_item_from">#FFFF0000</drawable>
+	<color name="text_color_black_conversation_list_item_from">#FFFF0000</color>
+	<!-- Colore testo titolo in alto -->
+	<color name="title_color_primary_dark" status="No" default="#FFFF0000">#FFFF0000</color>
+	
     <!-- 时间轴字体颜色 -->
     <color name="emui_time_axis_info_default">#7f000000</color>
     <!-- 弹出框分割线颜色 -->
@@ -44,18 +52,22 @@
     <!-- tab 点击颜色 -->
     <color name="emui_bright_foreground_light_inverse_alpha">#8fffffff</color>
     <!-- sim卡不可用状态secondary text color for disable 10% dark-->
-    <color name="emui_secondary_text_dark_disabled">#ffffff</color>
+    <color name="emui_secondary_text_dark_disabled">#A6ff0000</color>
     <!-- 蓝牙未连接时颜色primary text color for disable 10% dark-->
-    <color name="emui_primary_text_dark_disabled">#ffffff</color>
+    <color name="emui_primary_text_dark_disabled">#A6ff0000</color>
     <!-- 信息界面输入框内提示语言颜色-->
     <color name="emui_text_disabled">#4c000000</color>
     <!-- 警告对话框标题字体颜色 -->
     <color name="emui_dialog_title_text_Color">#E5000000</color>
     <!-- 没用toste字体颜色 -->
     <color name="emui_message_text_color">#99ffffff</color>
-    <!-- 信息popup字体 poup按钮颜色 -->
-    <color name="emui_button_text_color">#D8000000</color>
-    <color name="emui_button_text_disabled">#41000000</color>
+	
+   <!-- Popup Menu -->
+
+<color name="emui_button_text_color">#ff0000</color>
+<color name="emui_button_text_disabled">#4dff0000</color>
+<color name="emui_dialog_title_text_color">#ff0000</color>
+
     <!-- subtab标题颜色 -->
     <color name="sub_tab_title_selected_pressed_emui">#ffffffff</color>
     <color name="sub_tab_title_selected_emui">#ffffffff</color>
@@ -77,12 +89,9 @@
     <!-- 没用 弹出框字体颜色-->
     <color name="emui_popmenu_text_color">#cc000000</color>
 
-<!--actionmenuitemview uncheck属性-->
-<color name="menuitem_default_uncheckedcolor">#ffffffff</color>
-<color name="menuitem_default_uncheckedcolor_disabled">#ffffffff</color>
-<color name="menuitem_default_uncheckedcolor_pressed">#ffffffff</color>
+
 <!--状态栏和ActionBar的背景色-->
-<color name="primary_emui_light">#ff202020</color>
+<color name="primary_emui_light">#ff000000</color>
 
 
 </resources>

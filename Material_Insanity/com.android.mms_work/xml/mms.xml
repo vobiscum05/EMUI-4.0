@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Schermata iniziale -->
+
+<color name="title_color_primary_dark">#ffff0000</color>
+<color name="search_hint_text_color">#ccff0000</color>
+<color name="mms_unread_text_color">#ffffffff</color>
+<color name="test_color_black_sub_1">#a6ffffff</color>
+
+
+<!--Schermata iniziale ricerca -->
+
+<color name="mms_main_text_color">#ffff0000</color>
+<color name="mms_sub_text_color">#a6ffffff</color>
+<color name="incoming_msg_text_color">#ffff0000</color>
+
+<!--Popop up in nuovo msg + testo ricerca contantatto -->
+
+<drawable name="text_color_red">#ffff0000</color>
+<color name="recepients_hint_text_color">#ccffffff</color>
+
+<!-- testo in sms -->
+
+<color name="mms_hint_text_color">#a6ffffff</color>
+<color name="mms_favorites_msg_type_color">#a6ffffff</color>
+<color name="mms_favorites_msg_text_color">#a6ffffff</color>
+<color name="incoming_msg_text_color">#a6ffffff</color>
+
+<!-- seleziona contatto -->
+
+<color name="contact_section_title_text_color">#ffff0000</color>
+<color name="contact_list_item_text_color">#ffff0000</color>
+<color name="contact_list_sub_text_color">#a6ffffff</color>
+ 
+<!-- chat sms -->
+
+<color name="test_color_black_sub_1">#ffffffff</color>
+<color name="test_color_white_important">#ffff0000</color>
+<drawable name="spite_line_drawable_white">#ffff0000</color>
+<color name="test_color_white_sub">#a6ffffff</color>
+
+<!-- bubble text -->
+
+<color name="test_color_black_send">#ffffffff</color>
+<drawable name="text_color_black_send">#ff000000</color>
+<color name="incoming_msg_text_color">#ffff8040</color>
+<drawable name="text_color_black_conversation">#ff000000</color>
+<color name="compose_hint_text_color">#cc000000</color>
+
+<!-- allegati e menu caratteri -->
+
+<color name="mms_text_counter_color">#a6ffffff</color>
+<color name="attach_panel_item_color">#ff000000</color>
+<color name="signview_divider_line_color">#ffff0000</color>
+<color name="mms_icon_list_item_text_color">#ffff0000</color>
+<color name="signview_selected_color">#a6ff0000</color>
+<color name="signview_normal_color">#a6ffffff</color>
+
+<!-- testi sub menu -->
+
+<color name="dialog_list_text color">#ffff0000</color>
+
+
+<resources>

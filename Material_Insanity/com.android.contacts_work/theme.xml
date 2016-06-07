@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <hwthemes>     
 
-      	<!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
-        <color name="background_change">#00000000</color>
+  <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+  <color name="background_change">#00000000</color>
+
+  <!--Colori menu barra sotto -->
+  <color name="menu_selector_color_state_focused">#ff0000</color>
+  <color name="menu_selector_color_state_pressed">#ff0000</color>
+  <color name="menu_selector_color_state_enabled">#ff0000</color>
+  <color name="menu_selector_color_state_default">#ff0000</color>
+
+<!--Ricerca con digitazione -->
+<color name="call_log_primary_text_color">#ff000000</color>
+<color name="people_app_theme_color">#ffff0000</color>
+<color name="dialpad_huawei_text_color">#ffff0000</color>
+<color name="call_log_missed_call_count">#ff0000FF</color>
 
 </hwthemes>
