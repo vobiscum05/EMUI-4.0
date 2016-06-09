@@ -35,17 +35,20 @@
     <color name="slide_page_number_color" status="No" default="#AFF00FF">#AFF0000</color>
 	<!-- Testo colore contatto sfondo vulcano + sfondo -->
     <color name="text_color_button" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
+	<!-- Colore testo in schermata contatto -->
     <color name="text_color_white_important" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
+	<!-- Colore numero telefono schermata contatto -->
     <color name="text_color_white_sub" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="text_color_balck_sub" status="No" default="#FFFF0000">#FFFF0000</color>
     <color name="mms_text_counter_color">#d8ffffff</color>
-    <color name="text_color_black_main" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
+	<!-- Colore msg preferiti -->
+    <color name="text_color_black_main" status="No" default="#FFFFFFFF">#FFFF0000</color>
     <color name="mms_unread_text_color" status="No" default="#FFFFFFFF">#FF151B8D</color>
     <color name="text_color_black_sub_2" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="text_color_black_sub_1" status="No" default="#FFFFFFFF">#FFFF0000</color>
     <color name="text_color" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
     <color name="sms_number_set_warning" status="No" default="#FFF0460E">#FFF0460E</color>
-<!-- Colore pannello allegati -->
+	<!-- Colore pannello allegati -->
     <color name="attach_panel_item_color" status="No" default="#FFF62817">#FF000000</color>
     <color name="attach_panel_grid_line_color" status="No" default="#00ffffff">#ffff0000</color>
     <color name="text_color_black_important" status="No" default="#FFFFFFFF">#FFFFFFFF</color>
