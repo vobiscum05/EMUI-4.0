@@ -5,6 +5,8 @@
 <!-- Testo menu divisori -->
 <color name="emui_list_separator_default">#ff8a01</color>
 
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff202020</color>
 
 <!-- testo barra tools -->
 <color name="menuitem_default_checkedcolor">#ff8a01</color>
