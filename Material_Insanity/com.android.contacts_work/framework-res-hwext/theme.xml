@@ -21,7 +21,7 @@
 <!-- menu impostazioni contatti -->
 <color name="emui_list_primary_default">#ffffffff</color>
 <color name="emui_list_separator_default">#ffff0000</color>
-<color name="emui_text_dark">#ffffffff</color>
+<color name="emui_text_dark">#ffff0000</color>
 <color name="emui_secondary_text_dark">#A6ffffff</color>
 
 <!-- menu actionbar aggiungi preferiti -->

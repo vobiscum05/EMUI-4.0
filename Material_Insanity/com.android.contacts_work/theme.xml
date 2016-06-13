@@ -28,7 +28,7 @@
 <color name="contact_section_title_text_color">#ffff0000</color>
 
 <!-- Sottomenu contatti -->
-<color name="contact_detail_white_important_text_color">#ffffffff</color>
+<color name="contact_detail_white_important_text_color">#ffff0000</color>
 <color name="contact_detail_data_text_color">#ffff0000</color>
 <color name="contact_eidtor_item_name_color" status="No" default="#FF00F576">#FFFF0000</color>
 <color name="contact_eidtor_item_content_color" status="No" default="#FF00F576">#A6FFFFFF</color>
