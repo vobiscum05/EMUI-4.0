@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- widget文字投影颜色-->
+	<color name="widget_text_shadowcolor">#80000000</color>
+	<!-- widget文字颜色-->
+	<color name="widget_text_color">#FFFFFFFF</color>
+</resources>
