@@ -21,8 +21,12 @@
 <!-- menu impostazioni contatti -->
 <color name="emui_list_primary_default">#ffffffff</color>
 <color name="emui_list_separator_default">#ffff8a01</color>
-<color name="emui_text_dark">#ffffffff</color>
 <color name="emui_secondary_text_dark">#A6ffffff</color>
+
+<!--popup e sottomenu-->
+<color name="emui_text_dark">#ffff8a01</color>
+
+
 
 <!-- menu actionbar aggiungi preferiti -->
 <color name="menuitem_default_uncheckedcolor">#ffff8a01</color>

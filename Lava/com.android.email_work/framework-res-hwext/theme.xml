@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff8a01</color>
+<color name="menuitem_default_checkedcolor_pressed">#ff8a01</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff202020</color>
+
+
+</resources>
+

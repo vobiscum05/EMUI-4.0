@@ -8,4 +8,8 @@
 <color name="emui_text_summary_dark">#ffffff</color>
 <color name="emui_list_summary_default">#ffffff</color>
 
+
+<!-- colore divisore lista settings -->
+<color name="preference_divider_grey">#00000000</color>
+
 </hwthemes>
