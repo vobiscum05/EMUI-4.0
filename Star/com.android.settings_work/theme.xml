@@ -16,14 +16,9 @@
 <color name="emui_list_summary_default">#ffffff</color>
 <color name="emui_logo_background">#000000</color>
 
-<!-- The battery progress bar color value -->
-<color name="battery_progress_background">#ff28262c</color>
-<color name="battery_progress_first">#c09e7837</color>
-<color name="battery_progress_second">#c09e7837</color>
-<color name="linear_color_bar">#ff9e7837</color>
+<!-- colore divisore lista settings -->
+<color name="preference_divider_grey">#00000000</color>
 
-<!-- The category divider text color -->
-<color name="category_emotion">#ffe05a6d</color>
 
 
 </hwthemes>

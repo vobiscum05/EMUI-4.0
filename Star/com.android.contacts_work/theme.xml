@@ -1,11 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <hwthemes>     
 
+  <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+  <color name="background_change">#00000000</color>
 
-    	<!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
-        <color name="background_change">#00000000</color>
+  <!-- Testo ricerca leggero -->
+  <color name="contact_searchfield_hint_text_normal_color">#4000ffff</color>
+  <color name="contact_searchfield_hint_text_pressed_color">#4000ffff</color>
+  
+  
+  <!--Colori menu barra sotto -->
+  <color name="menu_selector_color_state_focused">#00ffff</color>
+  <color name="menu_selector_color_state_pressed">#00ffff</color>
+  <color name="menu_selector_color_state_enabled">#00ffff</color>
+  <color name="menu_selector_color_state_default">#00ffff</color>
+
+<!-- testo Ricerca con digitazione e lista componi -->
+<color name="call_log_primary_text_color">#ffffffff</color>
+<color name="call_log_secondary_text_color">#ffffffff</color>
+<color name="favorites_tile_name_text_pressed_color">#ffffffff</color>
+<color name="contact_list_item_sub_text_color">#A6ffffff</color>
 
 
-      
-    
+<!-- testo lista contatti -->
+<color name="contact_list_item_text_color">#ffffffff</color>
+<color name="pinned_header_textview_color">#ff00ffff</color>
+<color name="alpha_scroller_inactive_text">#a6ffffff</color>
+<color name="alpha_scroller_inactive_text_select">#ffffffff</color>
+<color name="alpha_scroller_text_select">#ffffffff</color>
+
+<!-- testo lista preferiti -->
+<color name="contact_section_title_text_color">#ff00ffff</color>
+
+<!-- Sottomenu contatti -->
+<color name="contact_detail_white_important_text_color">#ff00ffff</color>
+<color name="contact_detail_data_text_color">#ff00ffff</color>
+<color name="contact_eidtor_item_name_color" status="No" default="#FF00F576">#FF00ffff</color>
+<color name="contact_eidtor_item_content_color" status="No" default="#FF00F576">#FF00ffff</color>
+<color name="empty_contacts_text_color" status="No" default="#FF00F576">#A6ffffff</color>
+
+<color name="people_app_theme_color">#ff00ffff</color>
+<color name="dialpad_huawei_text_color">#ff00017c</color>
+<color name="call_log_missed_call_count">#ffffffff</color>
+
 </hwthemes>
