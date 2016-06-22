@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#3090c7</color>
+<color name="menuitem_default_uncheckedcolor">#3090c7</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#3090c7</color>
+<color name="menuitem_default_checkedcolor_pressed">#3090c7</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff0c2a3c</color>
+
+
+</resources>
+
