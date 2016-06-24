@@ -4,18 +4,18 @@
 <color name="emui_logo_background">#202020</color>
 
 <!-- lista  -->
-<color name="emui_primary_text_dark_disabled">#4d3090c7</color>
+<color name="emui_primary_text_dark_disabled">#4d0c2a3c</color>
 
 <!-- Lista nero premuto -->
-<color name="emui_text_dark">#3090c7</color>
+<color name="emui_text_dark">#ff0c2a3c</color>
 
 <!-- Lista menu sx -->
-<color name="emui_list_primary_default">#3090c7</color>
-<color name="category_emotion">#3090c7</color>
-<color name="emui_summary_text_dark_disabled">#A63090c7</color>
+<color name="emui_list_primary_default">#ff0c2a3c</color>
+<color name="category_emotion">#ff0c2a3c</color>
+<color name="emui_summary_text_dark_disabled">#a60c2a3c</color>
 
-<color name="emui_text_summary_dark">#3090c7</color>
-<color name="emui_list_summary_default">#3090c7</color>
+<color name="emui_text_summary_dark">#ff0c2a3c</color>
+<color name="emui_list_summary_default">#ff0c2a3c</color>
 
 <!-- colore divisore lista settings -->
 <color name="preference_divider_grey">#00000000</color>

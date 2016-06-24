@@ -1,16 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-   
- <!-- Attiva il mascheramento senza non tema nulla -->
-    <color name="emui_custom_panel_background">#00000000</color>
+    
+    
+<!-- Attiva il mascheramento senza non tema nulla -->
+<color name="emui_custom_panel_background">#00000000</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff0c2a3c</color>
 
 
-<!-- Colore per testo per sfondo usare png -->	
-    <color name="emui_tab_title_pressed">#8cffffff</color>
-    <color name="emui_tab_title_selected">#ffffff</color>
-    <color name="emui_tab_title_activated">#ffffff</color>
-    <color name="emui_tab_title_normal">#8cffffff</color>
+<!-- tab menu-->	
+<color name="emui_tab_title_pressed">#f23090c7</color>
+<color name="emui_tab_title_selected">#ffffff</color>
+<color name="emui_tab_title_activated">#f23090c7</color>
+<color name="emui_tab_title_normal">#f23090c7</color>
 
+<!-- Colore ora chiamate-->
+<color name="emui_time_axis_info_default">#ff0c2a3c</color>
 
+<!-- menu impostazioni contatti -->
+<color name="emui_list_primary_default">#ff0c2a3c</color>
+<color name="emui_list_separator_default">#ffFFFFFF</color>
+<color name="emui_text_dark">#ff0c2a3c</color>
+<color name="emui_secondary_text_dark">#a60c2a3c</color>
+
+<!-- menu actionbar aggiungi preferiti -->
+<color name="menuitem_default_uncheckedcolor">#ff3090c7</color>
+<color name="menuitem_default_uncheckedcolor_disable">#ff3090c7</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff3090c7</color>
+    
 </resources>
 

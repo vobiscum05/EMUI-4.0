@@ -16,13 +16,13 @@
 <color name="emui_tab_title_normal">#f23090c7</color>
 
 <!-- Colore ora chiamate-->
-<color name="emui_time_axis_info_default">#ff3090c7</color>
+<color name="emui_time_axis_info_default">#ff0c2a3c</color>
 
 <!-- menu impostazioni contatti -->
-<color name="emui_list_primary_default">#ff3090c7</color>
+<color name="emui_list_primary_default">#ff0c2a3c</color>
 <color name="emui_list_separator_default">#ffFFFFFF</color>
-<color name="emui_text_dark">#ff3090c7</color>
-<color name="emui_secondary_text_dark">#A63090c7</color>
+<color name="emui_text_dark">#ff0c2a3c</color>
+<color name="emui_secondary_text_dark">#a60c2a3c</color>
 
 <!-- menu actionbar aggiungi preferiti -->
 <color name="menuitem_default_uncheckedcolor">#ff3090c7</color>

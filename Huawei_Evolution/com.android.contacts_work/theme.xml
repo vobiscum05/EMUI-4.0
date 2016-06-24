@@ -11,31 +11,31 @@
   <color name="menu_selector_color_state_default">#3090c7</color>
 
 <!-- testo Ricerca con digitazione e lista componi -->
-<color name="call_log_primary_text_color">#ff3090c7</color>
-<color name="call_log_secondary_text_color">#ff3090c7</color>
-<color name="favorites_tile_name_text_pressed_color">#ff3090c7</color>
-<color name="contact_list_item_sub_text_color">#A63090c7</color>
+<color name="call_log_primary_text_color">#ff0c2a3c</color>
+<color name="call_log_secondary_text_color">#ff0c2a3c</color>
+<color name="favorites_tile_name_text_pressed_color">#ff0c2a3c</color>
+<color name="contact_list_item_sub_text_color">#a60c2a3c</color>
 
 
 <!-- testo lista contatti -->
-<color name="contact_list_item_text_color">#ff3090c7</color>
+<color name="contact_list_item_text_color">#ff0c2a3c</color>
 <color name="pinned_header_textview_color">#ffffffff</color>
-<color name="alpha_scroller_inactive_text">#a63090c7</color>
-<color name="alpha_scroller_inactive_text_select">#ff3090c7</color>
+<color name="alpha_scroller_inactive_text">#a60c2a3c</color>
+<color name="alpha_scroller_inactive_text_select">#a60c2a3c</color>
 <color name="alpha_scroller_text_select_color">#ffffffff</color>
 
 <!-- testo lista preferiti -->
-<color name="contact_section_title_text_color">#ff3090c7</color>
+<color name="contact_section_title_text_color">#ff0c2a3c</color>
 
 <!-- Sottomenu contatti -->
-<color name="contact_detail_white_important_text_color">#ff3090c7</color>
-<color name="contact_detail_data_text_color">#ff3090c7</color>
-<color name="contact_eidtor_item_name_color" status="No" default="#FF00F576">#FF3090c7</color>
-<color name="contact_eidtor_item_content_color" status="No" default="#FF00F576">#FF3090c7</color>
-<color name="empty_contacts_text_color" status="No" default="#FF00F576">#A63090c7</color>
+<color name="contact_detail_white_important_text_color">#ff0c2a3c</color>
+<color name="contact_detail_data_text_color">#ff0c2a3c</color>
+<color name="contact_eidtor_item_name_color" status="No" default="#FF00F576">#ff0c2a3c</color>
+<color name="contact_eidtor_item_content_color" status="No" default="#FF00F576">#ff0c2a3c</color>
+<color name="empty_contacts_text_color" status="No" default="#FF00F576">#a60c2a3c</color>
 
 <color name="people_app_theme_color">#ff3090c7</color>
-<color name="dialpad_huawei_text_color">#ff3090c7</color>
+<color name="dialpad_huawei_text_color">#ff0c2a3c</color>
 <color name="call_log_missed_call_count">#fff0460e</color>
 
 </hwthemes>
