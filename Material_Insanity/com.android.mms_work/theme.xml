@@ -28,7 +28,7 @@
     <color name="label_downloading" status="No" default="#99FFFFFF">#99FFFFFF</color>
     <color name="list_item_downlod_btn_disable_color" status="No" default="#64FF00FF">#64FF0000</color>
     <color name="list_item_btn_disable_color" status="No" default="#64FF00FF">#64FF0000</color>
-    <color name="text_color_white" status="No" default="#FFFF00FF">#FFFF0000</color>
+    <color name="text_color_white" status="No" default="#FFFF00FF">#FFFFFFFF</color>
     <color name="incoming_msg_text_color" status="No" default="#FFFF00FF">#FFFF0000</color>
     <color name="mms_send_to_text_color" status="No" default="#DBFF00FF">#DBFF0000</color>
     <color name="single_text_editor_color" status="No" default="#FFFF00FF">#FFFF0000</color>
