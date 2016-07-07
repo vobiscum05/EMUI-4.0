@@ -27,7 +27,7 @@
 <color name="pinned_header_textview_color">#ff00ffff</color>
 <color name="alpha_scroller_inactive_text">#a6ffffff</color>
 <color name="alpha_scroller_inactive_text_select">#ffffffff</color>
-<color name="alpha_scroller_text_select">#ffffffff</color>
+<color name="alpha_scroller_text_selected_color">#ff000000</color>
 
 <!-- testo lista preferiti -->
 <color name="contact_section_title_text_color">#ff00ffff</color>
