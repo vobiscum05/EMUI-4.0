@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ff8a01</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff202020</color>
+
+    <color name="sub_tab_title_selected_pressed_emui">#ffffffff</color>
+    <color name="sub_tab_title_selected_emui">#ffffffff</color>
+    <color name="sub_tab_title_activated_pressed_emui">#ffffffff</color>
+    <color name="sub_tab_title_activated_emui">#ffffffff</color>
+
+</resources>
+

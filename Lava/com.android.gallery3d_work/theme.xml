@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hwthemes>
-
-
+<resources>
 
 <!-- Gallery2 -->
     <!-- for album name color -->
     <color name="appwidget_textshadow_color">#80000000</color>
     <color name="appwidget_text_color">#ff8a01</color>
 
-</hwthemes>
+</resources>

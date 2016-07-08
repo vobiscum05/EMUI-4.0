@@ -61,5 +61,6 @@
     <color name="text_color_white_splite_line" status="No" default="#33FFFFFF">#33FFFFFF</color>
     <color name="text_color_white_main" status="No" default="#D8FFFFFF">#D8FFFFFF</color>
     <color name="empty_message_text_color" status="No" default="#A5FFFFFF">#A5FFFFFF</color>
+	
  
 </hwthemes>
