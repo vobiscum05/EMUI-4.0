@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Testo Popup Vari -->                                        
+<color name="emui_text_light">#ffff0000</color>
+
+<!-- Testo Autorizzazioni Gestioni APP -->
+<color name="emui_text_dark">#ffff0000</color>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#FFFFFF</color>
+
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor">#ff0000</color>
+
+
+
+<!-- Colore Tasti Avanti/Annulla -->
+<color name="emui_button_text_disabled_inverse">#ff0000</color>
+<color name="emui_button_text_pressed_inverse">#ff0000</color>
+<color name="emui_button_text_color_inverse">#ff0000</color>
+<color name="emui_button_text_color">#ffff0000</color>
+<color name="emui_button_text_disabled">#a6ff0000</color>
+
+<!-- Colore titolo TAB per icona usare png solo emui 3.1 -->
+<color name="emui_custom_panel_background">#00000000</color>
+<color name="emui_tab_title_pressed">#ff0000</color>
+<color name="emui_tab_title_selected">#ff0000</color>
+<color name="emui_tab_title_activated">#ff0000</color>
+<color name="emui_tab_title_normal">#ff0000</color>
+
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff000000</color>
+
+
+
+</resources>
+
