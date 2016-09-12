@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff000000</color>
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#00ffff</color>
+<color name="menuitem_default_uncheckedcolor">#00ffff</color>
+
+</resources>
+
