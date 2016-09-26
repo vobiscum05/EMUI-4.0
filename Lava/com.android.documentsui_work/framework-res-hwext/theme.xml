@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- Colore testo menu barra azioni -->
+
+<color name="menuitem_default_uncheckedcolor">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor_disabled">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff8a01</color>
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor">#ff8a01</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff8a01</color>
+<color name="menuitem_default_checkedcolor_pressed">#ff8a01</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff202020</color>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ff8a01</color>
+
+	<!-- current month date color-->
+    <color name="widget_month_day">#ffffffff</color>
+	<!-- current month launch date color-->
+    <color name="widget_month_day_extra">#ffffffff</color>
+
+<color name="emui_numberpicker_select_textcolor">#ff8a01</color
+
+
+</resources>
+
