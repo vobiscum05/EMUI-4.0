@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <color name="composing">#082F44</color>
-    <color name="primary">#082F44</color>
-    <color name="primary_dark">#082F44</color>
-	<color name="accent">#00ffff</color>
-	<color name="tab_indicator">#00FFFF</color>
-	<color name="divider_gray">#00000000</color>
+  
+<color name="accent">#1861ae</color>
+
+
+<color name="action_mode">#000000</color>
+<color name="action_mode_dark">#D9000000</color>
+
+
+<color name="edit_text_counter">#ff000000</color>
+
+<color name="attach_popup_background">#00ffff</color>
+
+  
+<color name="composing">#ffffff</color>
+ 
+<color name="divider_gray">#00000000</color>
+
+<color name="btn_gray_normal">#ff1861ae</color>
+<color name="btn_green_pressed">#ff1861ae</color>
+
+
+<color name="conversation_row_date">#ff000000</color>    
+
+
+   
+<color name="primary">#000000</color>
+<color name="primary_dark">#D9000000</color>
+<color name="about_statusbar">#D9000000</color>
+  
+<color name="selection_check_background">#ff000000</color>
+<color name="tab_indicator">#00ffff</color>
+
+<color name="accent_light">#ff000000</color>
+<color name="list_item_verified_title">#ff000000</color>
+<color name="accent_dark_30">#1e000000</color>
+<color name="accent_light">#ff000000</color>
+<color name="accent_material_dark">ff000000</color>
+<color name="accent_material_light">ff000000</color>
+
+<color name="notice_text">#ff0000</color>
+
+
+<color name="voice_note_scrubber_blue">#ff000000</color>
+<color name="voice_note_scrubber_green">#ff000000</color>
+<color name="voice_note_scrubber_grey">#ff000000</color>
+
+
 </resources>
->Putos todos<
+

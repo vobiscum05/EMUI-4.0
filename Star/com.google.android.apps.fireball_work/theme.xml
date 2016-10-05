@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="abc_tint_switch_thumb">#ff0000</color>
+    <color name="abc_tint_switch_track">#00ffff</color>
+	
+</resources>

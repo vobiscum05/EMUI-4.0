@@ -5,8 +5,8 @@
   <color name="background_change">#00000000</color>
 
   <!-- Testo ricerca leggero -->
-  <color name="contact_searchfield_hint_text_normal_color">#4000ffff</color>
-  <color name="contact_searchfield_hint_text_pressed_color">#4000ffff</color>
+  <color name="contact_searchfield_hint_text_normal_color">#7300ffff</color>
+  <color name="contact_searchfield_hint_text_pressed_color">#7300ffff</color>
   
   
   <!--Colori menu barra sotto -->
