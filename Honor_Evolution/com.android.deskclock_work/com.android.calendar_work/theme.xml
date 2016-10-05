@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hwthemes> 
+    <!-- from Monday to Friday title color-->
+    <color name="widget_week_title">#ffffffff</color>
+	<!-- Saturday and Sunday title color-->
+    <color name="widget_week_title_weekend">#ffffffff</color>
+	<!-- current month date color-->
+    <color name="widget_month_day">#ffffffff</color>
+	<!-- current month launch date color-->
+    <color name="widget_month_day_extra">#ffffffff</color>
+<color name="title_month">#ffffffff</color>
+</hwthemes>

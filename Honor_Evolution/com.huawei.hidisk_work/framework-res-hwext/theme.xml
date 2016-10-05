@@ -4,7 +4,7 @@
 
 
 <!-- Colora la statusbar -->
-<color name="primary_emui_light">#ff0c2a3c</color>
+<color name="primary_emui_light">#ff0c1922</color>
 
 <!-- testo barra tools -->
 <color name="menuitem_default_checkedcolor">#3090c7</color>
@@ -17,6 +17,9 @@
 <color name="emui_tab_title_selected">#ffffff</color>
 <color name="emui_tab_title_activated">#3090c7</color>
 <color name="emui_tab_title_normal">#3090c7</color>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#3090c7</color>
 
 </resources>
 

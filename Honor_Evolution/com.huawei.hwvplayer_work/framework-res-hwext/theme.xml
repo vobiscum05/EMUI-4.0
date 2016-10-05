@@ -3,7 +3,7 @@
 
 
 <!-- Colora la statusbar -->
-<color name="primary_emui_light">#ff0c2a3c</color>
+<color name="primary_emui_light">#ff0c1922</color>
 
 <!-- testo barra tools -->
 <color name="menuitem_default_checkedcolor">#3090c7</color>

@@ -25,9 +25,10 @@
 
 <!-- Colore testo menu barra azioni -->
 
+<color name="menuitem_default_checkedcolor">#ffffff</color>
 <color name="menuitem_default_uncheckedcolor">#3090c7</color>
-<color name="menuitem_default_uncheckedcolor_disabled">#3090c7</color>
 <color name="menuitem_default_uncheckedcolor_pressed">#3090c7</color>
+<color name="menuitem_default_checkedcolor_pressed">#3090c7</color>
 
     <!-- 手机管家list第一行字体 -->
     <color name="hw_black">#ff000000</color>
@@ -92,7 +93,7 @@
 
 
 <!--状态栏和ActionBar的背景色-->
-<color name="primary_emui_light">#ff000000</color>
+<color name="primary_emui_light">#ff0c1922</color>
 
 
 </resources>

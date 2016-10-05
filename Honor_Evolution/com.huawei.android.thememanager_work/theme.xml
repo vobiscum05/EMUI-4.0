@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <hwthemes>
 
-
+    <!-- 混搭样式 第一行title 高亮 状态字符 -->
+    <color name="current_text_color">#ff3090c7</color>
 
 </hwthemes>
