@@ -4,6 +4,10 @@
   <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
   <color name="background_change">#00000000</color>
 
+  
+<color name="contact_searchfield_hint_text_normal_color">#73ff0000</color>
+<color name="contact_searchfield_hint_text_pressed_color">#73ff0000</color>
+  
   <!--Colori menu barra sotto -->
   <color name="menu_selector_color_state_focused">#ff0000</color>
   <color name="menu_selector_color_state_pressed">#ff0000</color>

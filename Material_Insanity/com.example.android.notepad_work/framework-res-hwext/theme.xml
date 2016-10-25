@@ -7,8 +7,13 @@
 <color name="primary_emui_light">#ff000000</color>
 
 <!-- testo barra tools -->
-<color name="menuitem_default_checkedcolor">#ff0000</color>
+
 <color name="menuitem_default_uncheckedcolor">#ff0000</color>
+<color name="menuitem_default_checkedcolor">#ffffff</color>
+<color name="menuitem_default_uncheckedcolor">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff0000</color>
+<color name="menuitem_default_checkedcolor_pressed">#ffffff</color>
+
 
 
 <!-- Colore titolo TAB per icona usare png -->

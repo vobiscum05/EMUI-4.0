@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <color name="composing">#FF0000</color>
-    <color name="primary">#000000</color>
-    <color name="primary_dark">#000000</color>
-	<color name="accent">#000000</color>
-	<color name="tab_indicator">#FF0000</color>
-	<color name="divider_gray">#00000000</color>
+  
+<!-- Colore tab e cerchi -->
+
+<color name="accent">#000000</color>
+<color name="accent_dark">#000000</color>
+<color name="accent_light">#000000</color>
+<color name="accent_material_light">#000000</color>
+
+
+<!-- Colori Tab Alti -->
+
+<color name="action_mode">#000000</color>
+<color name="action_mode_disable">#000000</color>
+<color name="action_mode_dark">#000000</color>  
+<color name="action_mode_dark_disabled">#000000</color>
+<color name="primary">#000000</color>
+<color name="primary_dark">#000000</color>
+  
+<color name="selection_check_background">#000000</color>
+<color name="tab_indicator">#ff0000</color>
+
+<color name="voice_note_scrubber_blue">#ff000000</color>
+<color name="voice_note_scrubber_green">#ff000000</color>
+<color name="voice_note_scrubber_grey">#ff000000</color>
 
 </resources>
 

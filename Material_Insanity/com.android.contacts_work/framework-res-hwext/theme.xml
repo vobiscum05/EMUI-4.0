@@ -8,6 +8,9 @@
 <!-- Colora la statusbar -->
 <color name="primary_emui_light">#ff000000</color>
 
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ffffff</color>
+
 
 <!-- tab menu-->	
 <color name="emui_tab_title_pressed">#f2ff0000</color>
@@ -28,6 +31,9 @@
 <color name="menuitem_default_uncheckedcolor">#ffff0000</color>
 <color name="menuitem_default_uncheckedcolor_disable">#ffff0000</color>
 <color name="menuitem_default_uncheckedcolor_pressed">#ffff0000</color>
+<color name="menuitem_default_checkedcolor">#ffffff</color>
+<color name="menuitem_default_checkedcolor_pressed">#ff0000</color>
+
     
 </resources>
 

@@ -23,7 +23,7 @@
     <color name="emui_tab_title_normal">#ffffffff</color>
 
     <!-- 混搭样式 第一行title 高亮 状态字符 -->
-    <color name="current_text_color">#ffffffff</color>
+    <color name="current_text_color">#ff0000</color>
     <!-- 混搭样式 第一行title normal状态字符 -->
     <color name="diy_item_textcolor">#ffffffff</color> 
 
