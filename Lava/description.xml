@@ -5,8 +5,8 @@
     <author>Vobiscum</author>
     <designer>Vobiscum</designer>
     <screen>FHD</screen>
-    <version>8.0</version>
-    <font>Cagliostro</font>
-    <font-cn>Cagliostro</font-cn>
+    <version>9.0</version>
+    <font>Default</font>
+    <font-cn>Default</font-cn>
     <transition>None</transition>
 </HwTheme>

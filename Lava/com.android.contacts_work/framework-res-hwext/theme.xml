@@ -11,7 +11,7 @@
 
 <!-- tab menu-->	
 <color name="emui_tab_title_pressed">#f2ff8a01</color>
-<color name="emui_tab_title_selected">#ff8a01</color>
+<color name="emui_tab_title_selected">#ffffff</color>
 <color name="emui_tab_title_activated">#f2ff8a01</color>
 <color name="emui_tab_title_normal">#f2ff8a01</color>
 
@@ -32,6 +32,9 @@
 <color name="menuitem_default_uncheckedcolor">#ffff8a01</color>
 <color name="menuitem_default_uncheckedcolor_disable">#ffff8a01</color>
 <color name="menuitem_default_uncheckedcolor_pressed">#ffff8a01</color>
+<color name="menuitem_default_checkedcolor">#ffffff</color>
+<color name="menuitem_default_checkedcolor_pressed">#ffff8a01</color>
+
     
 </resources>
 

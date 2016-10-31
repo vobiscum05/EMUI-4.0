@@ -21,9 +21,7 @@
     <color name="emui_tab_title_activated">#ff8ab9ff</color>
     <color name="emui_tab_title_normal">#ffffffff</color>
 
-    <!-- toolbar字体颜色 日历 主题管理 信息 -->
-    <color name="menuitem_default_checkedcolor">#7f7f7f</color>
-    <color name="menuitem_default_uncheckedcolor">#7f7f7f</color>
+    
     <!-- 手机管家list第一行字体 -->
     <color name="hw_black">#ff000000</color>
     <!-- 时间轴字体颜色 -->
@@ -78,9 +76,13 @@
     <color name="emui_popmenu_text_color">#cc000000</color>
 
 <!--actionmenuitemview uncheck属性-->
-<color name="menuitem_default_uncheckedcolor">#ffffffff</color>
-<color name="menuitem_default_uncheckedcolor_disabled">#ffffffff</color>
-<color name="menuitem_default_uncheckedcolor_pressed">#ffffffff</color>
+<color name="menuitem_default_checkedcolor_pressed">#ffffff</color>
+<color name="menuitem_default_checkedcolor">#ffffff</color>
+<color name="menuitem_default_uncheckedcolor">#ffffff</color>
+<color name="menuitem_default_uncheckedcolor_disabled">#ffffff</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ffffff</color>
+
+
 <!--状态栏和ActionBar的背景色-->
 <color name="primary_emui_light">#ff202020</color>
 

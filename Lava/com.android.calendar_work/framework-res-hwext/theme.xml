@@ -7,7 +7,7 @@
 <color name="menuitem_default_uncheckedcolor_pressed">#ff8a01</color>
 
 <!-- testo barra tools -->
-<color name="menuitem_default_checkedcolor">#ff8a01</color>
+<color name="menuitem_default_checkedcolor">#ffffff</color>
 <color name="menuitem_default_uncheckedcolor">#ff8a01</color>
 <color name="menuitem_default_uncheckedcolor_pressed">#ff8a01</color>
 <color name="menuitem_default_checkedcolor_pressed">#ff8a01</color>
